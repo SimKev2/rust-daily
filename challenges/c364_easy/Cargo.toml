@@ -1,0 +1,7 @@
+[package]
+name = "c364_easy"
+version = "0.1.0"
+authors = ["simkev2 <simkev2@gmail.com>"]
+
+[dependencies]
+rand = "0.5"
